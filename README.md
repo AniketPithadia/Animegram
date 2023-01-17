@@ -1,7 +1,4 @@
-# FullStack Social Media App
-Complete React MERN Full Stack Social Media App
+# Anime-themed Social Media App
+Built with React v18,Redux toolkit,Formik,yup,styled components,MUI,Node.js,Express.js,Mongodb 
 
 
-For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
-
-I haven't decided on the exact workflow I'll be using yet. But we'll get it out there soon!
